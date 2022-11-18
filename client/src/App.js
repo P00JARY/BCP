@@ -12,7 +12,6 @@ const App = () => {
   return (
     
       <>
-      <Navbar/>
       <Routes> 
         <Route path='/' element={<LoginForm/>}/>
         <Route path='/Registration' element={<Registration/>}/>
