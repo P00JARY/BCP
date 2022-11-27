@@ -1,6 +1,4 @@
 import React from 'react'
-
-import Navbar from './components/NavBar'
 import LoginForm from './components/LoginForm'
 import Registration from './components/Registration'
 import Admin from "./components/Admin";
